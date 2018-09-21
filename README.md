@@ -1,8 +1,8 @@
 # Network-Attacker
 network-attacker V0.1 is a WiFi Stress Testing Bash Script Program Based on Mdk3 [Beacon Flooding & Deauthentication Attack]
 # Installation
-[text] sudo apt-get install git
-[text] sudo git clone https://github.com/TunisianEagles/network-attacker.git
+<p> sudo apt-get install git </p>
+<p> sudo git clone https://github.com/TunisianEagles/network-attacker.git </p>
 [text] cd network-attacker
 [text] sudo chmod +x install.sh
 [text] sudo chmod +x network_attacker.sh
