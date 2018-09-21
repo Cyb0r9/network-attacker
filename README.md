@@ -11,7 +11,10 @@ sudo chmod +x network_attacker.sh
 ./network_attacker.sh
 ```
 # Tested On :
-Backbox linux , Ubuntu , Debian , Kali linux .
+* Backbox linux
+* Ubuntu 
+* Debian
+* Kali linux .
 # Contact
 Programmed By belahsan ouerghi 
 * [Contact](https://www.facebook.com/ouerghi.belahsan) - Contact Me If You Got Issues 
