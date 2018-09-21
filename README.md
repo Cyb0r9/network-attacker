@@ -7,9 +7,7 @@ sudo git clone https://github.com/TunisianEagles/network-attacker.git
 cd network-attacker
 sudo chmod +x install.sh
 sudo chmod +x network_attacker.sh
-[ ./install.sh for check packages and Tools are installed in your system or not ]
 ./install.sh
-[ Run ./network_attacker.sh As Root ] 
 ./network_attacker.sh
 ```
 # Tested On :
