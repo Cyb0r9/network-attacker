@@ -1,5 +1,6 @@
 # Network-Attacker
-network-attacker V0.1 is a WiFi Stress Testing Bash Script Program Based on Mdk3 [Beacon Flooding & Deauthentication Attack]
+network-attacker V0.1 is a Wifi Stress Testing Bash Script Program Based on Mdk3 [Beacon Flooding & Deauthentication Attack]
+* Created To Help Beginners or even Professionals For Beacon Flooding Or Deauthentication Attack On Networks
 # Installation
 ```
 sudo apt-get install git
@@ -14,7 +15,8 @@ sudo chmod +x network_attacker.sh
 * Backbox linux
 * Ubuntu 
 * Debian
-* Kali linux .
+* Kali linux 
+* Parrot os
 # Contact
 Programmed By belahsan ouerghi 
 * [Contact](https://www.facebook.com/ouerghi.belahsan) - Contact Me If You Got Issues 
